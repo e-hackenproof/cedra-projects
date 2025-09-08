@@ -63,4 +63,19 @@
       "telegram": ""
     }
   }
-]
+{
+  "id": 5,
+  "name": "HackenProof",
+  "slug": "HackenProof",
+  "description": "Expert Web3 bug bounty and crowdsourced audit platform",
+  "logo": "https://docs.hackenproof.com/good-to-know/branding",
+  "website": "https://hackenproof.com",
+  "category": "Security",
+  "socials": {
+    "discord": "https://discord.com/invite/NHX6yt73vh",
+    "twitter": "https://x.com/HackenProof",
+    "linkedin": "https://www.linkedin.com/company/hackenproof",
+    "facebook": "",
+    "telegram": "https://t.me/hackenproof"
+  }
+}
