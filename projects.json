@@ -62,8 +62,8 @@
       "facebook": "",
       "telegram": ""
     }
-  }
-{
+  },
+  {
   "id": 5,
   "name": "HackenProof",
   "slug": "HackenProof",
@@ -79,3 +79,4 @@
     "telegram": "https://t.me/hackenproof"
   }
 }
+] 
